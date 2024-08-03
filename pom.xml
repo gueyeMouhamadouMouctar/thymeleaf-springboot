@@ -117,7 +117,7 @@
 					</excludes>
 					<!-- github action -->
 					<image>
-						<name>gueyeMouhamadouMouctar/${project.artifactId}:${project.version}</name>
+						<name>elninho/${project.artifactId}:${project.version}</name>
 					</image>
 					<docker>
 						<publishRegistry>
